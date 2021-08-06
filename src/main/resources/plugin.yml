@@ -1,0 +1,14 @@
+name: Commandspart2
+version: ${project.version}
+main: me.kodysimpson.commandspart2.Commandspart2
+api-version: 1.17
+commands:
+  god:
+    description: Become invincible
+    usage: /<command>
+    aliases:
+      - pro
+      - kodymode
+  feed:
+    description: Feed yourself without eating
+    usage: /<command>
